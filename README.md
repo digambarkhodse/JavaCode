@@ -15,9 +15,8 @@ public class Problem1 {
 			String nw = s1;
 			String[] arr1 = nw.split("[=]");
 
-			for (String s2 : arr1) {
-				hm.put(arr1[0], arr1[1]);
-			}
+			hm.put(arr1[0], arr1[1]);
+
 		}
 
 		for (Entry<String, String> entry : hm.entrySet()) {
