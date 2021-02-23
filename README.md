@@ -1,4 +1,4 @@
-# JavaCode
+# CollectionProgram
 package com.PsAssignment;
 
 import java.util.LinkedHashMap;
